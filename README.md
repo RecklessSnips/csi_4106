@@ -1,6 +1,6 @@
 # Overview
 Assignments 1 - 3 focused on the supervised-learning pipeline, including data cleaning, data preprocessing, 
-and training traditional machine-learning models.
+and training traditional machine learning models.
 
 Assignment 4 explored heuristic optimization by implementing Greedy Algorithm, Simulated Annealing,
 and Genetic Algorithm for the Traveling Salesman Problem.
