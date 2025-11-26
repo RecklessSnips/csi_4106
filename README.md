@@ -24,6 +24,6 @@ by varying the number of layers, hidden units, and activation functions. My best
 of 0.878 and an ROC-AUC of 0.954, showing a slight improvement over my Random Forest model.
 
 # A4
-I implemented and compared two meta-heuristic algorithmsâ€”Simulated Annealing (SA) and Genetic Algorithms
+I implemented and compared two meta heuristic algorithms: Simulated Annealing (SA) and Genetic Algorithms
 (GA)to solve the Traveling Salesman Problem (TSP). Both algorithms were tested on two datasets,
 and each configuration was run 10 times to evaluate consistency, average performance, and runtime.
